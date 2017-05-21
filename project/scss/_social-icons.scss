@@ -1,0 +1,88 @@
+%svg-common {
+	background: url("img/svg/social-icons.svg") no-repeat;
+}
+
+.svg-GooglePlus {
+	@extend %svg-common;
+	background-position: 0 0;
+	width: 61px;
+	height: 60px;
+}
+
+.svg-Instagram {
+	@extend %svg-common;
+	background-position: 0 9.07715582450832%;
+	width: 60px;
+	height: 60px;
+}
+
+.svg-LinkedIN {
+	@extend %svg-common;
+	background-position: 0 18.15431164901664%;
+	width: 60px;
+	height: 60px;
+}
+
+.svg-OK {
+	@extend %svg-common;
+	background-position: 0 27.23146747352496%;
+	width: 60px;
+	height: 60px;
+}
+
+.svg-Pinterest {
+	@extend %svg-common;
+	background-position: 0 36.36363636363637%;
+	width: 60px;
+	height: 61px;
+}
+
+.svg-Skype {
+	@extend %svg-common;
+	background-position: 0 45.53706505295008%;
+	width: 60px;
+	height: 60px;
+}
+
+.svg-Telegram {
+	@extend %svg-common;
+	background-position: 0 54.61422087745839%;
+	width: 60px;
+	height: 60px;
+}
+
+.svg-Twitter {
+	@extend %svg-common;
+	background-position: 0 63.69137670196672%;
+	width: 60px;
+	height: 60px;
+}
+
+.svg-VK {
+	@extend %svg-common;
+	background-position: 0 72.76853252647504%;
+	width: 60px;
+	height: 60px;
+}
+
+.svg-Viber {
+	@extend %svg-common;
+	background-position: 0 81.84568835098335%;
+	width: 60px;
+	height: 60px;
+}
+
+.svg-Vimeo {
+	@extend %svg-common;
+	background-position: 0 90.92284417549168%;
+	width: 60px;
+	height: 60px;
+}
+
+.svg-Youtube {
+	@extend %svg-common;
+	background-position: 0 100%;
+	width: 61px;
+	height: 60px;
+}
+

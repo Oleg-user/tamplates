@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /errors/
+Disallow: /podpiska
+Disallow: /php
+Disallow: /*?*
+Disallow: /*.md
+
+Allow: /wp-content/themes/*.css
+ 
+User-agent: Yandex
+Disallow: /errors/
+Disallow: /podpiska
+Disallow: /php
+Disallow: /*?*
+Disallow: /*.md
+
+Host: https://www.krepopt.com.ua
+ 
+Sitemap: https://www.krepopt.com.ua/sitemap_index.xml

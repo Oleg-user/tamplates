@@ -1,0 +1,30 @@
+{
+  "name": "tamplates",
+  "version": "0.0.1",
+  "description": "Папка с проектами cd /Users/oleg/Dropbox/Sites",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.0-alpha.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.11",
+    "del": "^2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-kit": "^0.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-svg-sprite": "^1.3.6",
+    "gulp-uglify": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleg Demydenko",
+  "license": "ISC"
+}
